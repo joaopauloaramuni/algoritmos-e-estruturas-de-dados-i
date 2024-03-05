@@ -11,8 +11,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <stdio.h>
-
 // Função para calcular a soma de quatro números inteiros
 int calcularSoma(int num1, int num2, int num3, int num4) {
 	return num1 + num2 + num3 + num4;
