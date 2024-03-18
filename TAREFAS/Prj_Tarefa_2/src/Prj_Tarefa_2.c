@@ -38,7 +38,6 @@ void calcularSomaEMedia() {
 	}
 
 	double media = soma / 10;
-
 	printf("Soma: %d\n", soma);
 	printf("Média: %.2lf\n", media);
 }
@@ -79,56 +78,7 @@ void calcularPerimetroEAreaDoCirculo() {
 }
 // Função para calcular o valor total das prestações ou à vista
 void calcularPagamento(double totalGasto) {
-    int opcaoPagamento;
-    double valorFinal;
-
-    while (1) {
-        // Mostrar opções de pagamento
-        printf("\nOpções de pagamento:\n");
-        printf("1 - À Vista (com 10%% de desconto)\n");
-        printf("2 - Parcelado 2x (preço da etiqueta)\n");
-        printf("3 - Parcelado de 3x até 10x (3%% de juros ao mês, compras acima de R$300.00)\n");
-        printf("Digite a opção desejada (ou -999 para encerrar): ");
-        scanf("%d", &opcaoPagamento);
-
-        if (opcaoPagamento == -999) {
-            printf("Programa encerrado.\n");
-            break;
-        }
-
-        // Calcular o valor final com base na opção de pagamento
-        switch (opcaoPagamento) {
-            case 1:
-                valorFinal = totalGasto * 0.9; // À vista com 10% de desconto
-                printf("Valor à vista com desconto: R$%.2lf\n", valorFinal);
-                break;
-            case 2:
-                valorFinal = totalGasto; // Parcelado 2x (preço da etiqueta)
-                printf("Valor parcelado em 2x: 2x R$%.2lf\n", valorFinal / 2);
-                break;
-            case 3:
-                // Parcelado de 3x até 10x com 3% de juros ao mês (para compras acima de R$300.00)
-                if (totalGasto > 300.00) {
-                    int numParcelas;
-                    printf("Digite o número de parcelas (3 a 10): ");
-                    scanf("%d", &numParcelas);
-
-                    if (numParcelas >= 3 && numParcelas <= 10) {
-                        valorFinal = totalGasto * (1 + 0.03 * numParcelas);
-                        printf("Valor parcelado em %dx: %dx R$%.2lf\n", numParcelas, numParcelas, valorFinal / numParcelas);
-                        break;
-                    } else {
-                        printf("Escolha nova forma de pagamento. ");
-                        continue;
-                    }
-                } else {
-                    printf("Escolha nova forma de pagamento. ");
-                    continue;
-                }
-            default:
-                printf("Opção inválida. ");
-        }
-    }
+   //Exercício 5
 }
 
 int main(void) {
@@ -139,22 +89,6 @@ int main(void) {
 	calcularAreaDosComodos();
 
 	calcularPerimetroEAreaDoCirculo();
-
-    double totalGasto;
-
-    while (1) {
-        // Solicitar o total gasto pelo cliente
-        printf("Digite o total gasto (ou -999 para encerrar): ");
-        scanf("%lf", &totalGasto);
-
-        if (totalGasto == -999) {
-            printf("Programa encerrado.\n");
-            break;
-        }
-
-        // Chamar a função para calcular o pagamento
-        calcularPagamento(totalGasto);
-    }
 
 	return 0;
 }
