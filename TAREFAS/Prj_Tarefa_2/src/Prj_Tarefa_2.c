@@ -43,7 +43,7 @@ void calcularSomaEMedia() {
 }
 // Função para calcular a área de 4 cômodos de uma casa
 void calcularAreaDosComodos() {
-	double largura, comprimento, area;
+	double largura, comprimento, area, areatotal;
 
 	for (int i = 1; i <= 4; i++) {
 		printf("Digite a largura do cômodo %d: ", i);
@@ -55,9 +55,12 @@ void calcularAreaDosComodos() {
 		scanf("%lf", &comprimento);
 
 		area = largura * comprimento;
+		areatotal = areatotal + area;
 
 		printf("Área do cômodo %d: %.2lf metros quadrados\n", i, area);
 	}
+
+	printf("A área total é: %.2lf", areatotal);
 }
 // Função para calcular o perímetro e a área de um círculo
 void calcularPerimetroEAreaDoCirculo() {
