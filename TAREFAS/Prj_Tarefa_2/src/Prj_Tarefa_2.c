@@ -131,32 +131,41 @@ void calcularPagamento(double totalGasto) {
         }
     }
 }
+//Função para solicitar o total gasto pelo cliente e em seguida chamar a funcão calcularPagamento
+void solicitarTotalGasto(){
+	double totalGasto;
+
+	    while (1) {
+	        // Solicitar o total gasto pelo cliente
+	        printf("Digite o total gasto (ou -999 para encerrar): ");
+	    	fflush(stdout);
+	        scanf("%lf", &totalGasto);
+
+	        if (totalGasto == -999) {
+	            printf("Programa encerrado.\n");
+	            break;
+	        }
+
+	        // Chamar a função para calcular o pagamento
+	        calcularPagamento(totalGasto);
+	    }
+}
 
 int main(void) {
+	//Tarefa 2 - Exercício 1
 	mostrarNumerosParesMultiplosDeTres();
 
+	//Tarefa 2 - Exercício 2
 	calcularSomaEMedia();
 
+	//Tarefa 2 - Exercício 3
 	calcularAreaDosComodos();
 
+	//Tarefa 2 - Exercício 4
 	calcularPerimetroEAreaDoCirculo();
 
-    double totalGasto;
-
-    while (1) {
-        // Solicitar o total gasto pelo cliente
-        printf("Digite o total gasto (ou -999 para encerrar): ");
-    	fflush(stdout);
-        scanf("%lf", &totalGasto);
-
-        if (totalGasto == -999) {
-            printf("Programa encerrado.\n");
-            break;
-        }
-
-        // Chamar a função para calcular o pagamento
-        calcularPagamento(totalGasto);
-    }
+	//Tarefa 2 - Exercício 5
+    	solicitarTotalGasto();
 
 	return 0;
 }
