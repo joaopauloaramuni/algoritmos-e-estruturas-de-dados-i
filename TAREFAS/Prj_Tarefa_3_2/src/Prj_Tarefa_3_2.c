@@ -21,9 +21,15 @@ float calcularTotalGasto(int cigarrosAoLongoDaVida, float precoMaco) {
     return (cigarrosAoLongoDaVida / 20.0) * precoMaco;
 }
 
+// Função para calcular o tempo de vida perdido
+float calcularTempoVidaPerdido(int cigarrosAoLongoDaVida) {
+    // Estimativa de que cada cigarro reduz 11 minutos de vida
+    return cigarrosAoLongoDaVida * 11 / 60.0;
+}
+
 int main(void) {
     int anosFumando, cigarrosPorDia;
-    float precoMaco, totalGasto;
+    float precoMaco;
 
     // Solicitar informações ao usuário
     printf("Digite o número de anos que você fuma: ");
@@ -39,11 +45,15 @@ int main(void) {
     int cigarrosAoLongoDaVida = calcularCigarrosAoLongoDaVida(anosFumando, cigarrosPorDia);
 
     // Calcular o total gasto
-    totalGasto = calcularTotalGasto(cigarrosAoLongoDaVida, precoMaco);
+    float totalGasto = calcularTotalGasto(cigarrosAoLongoDaVida, precoMaco);
+
+    // Calcular o tempo de vida perdido
+    float tempoVidaPerdido = calcularTempoVidaPerdido(cigarrosAoLongoDaVida);
 
     // Mostrar os resultados
     printf("\nNúmero de cigarros fumados ao longo da vida: %d\n", cigarrosAoLongoDaVida);
     printf("Total gasto: R$%.2f\n", totalGasto);
+    printf("Tempo de vida perdido devido com o hábito de fumar: %.2f horas\n", tempoVidaPerdido);
 
     return 0;
 }
