@@ -18,6 +18,7 @@ int main(void) {
     int palindromo = 1;
 
     printf("Digite uma palavra: ");
+    fflush(stdout);
     scanf("%s", palavra);
 
     tamanho = strlen(palavra);
