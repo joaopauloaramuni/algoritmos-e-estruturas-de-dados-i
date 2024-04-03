@@ -19,6 +19,7 @@ int isPalindrome(char str[], int left, int right) {
 int main(void) {
     char palavra[100];
     printf("Digite uma palavra: ");
+    fflush(stdout);
     scanf("%s", palavra);
 
     int tamanho = strlen(palavra);
