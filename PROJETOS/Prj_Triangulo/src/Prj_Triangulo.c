@@ -15,6 +15,7 @@ void exercicio1(int linhas) {
 	// Exibe o padrão de asteriscos em forma de triângulo
 	printf("Padrão de asteriscos:\n");
 	for (int i = 1; i <= linhas; i++) {
+		//linhas = 5
 		// Loop para exibir os espaços em branco antes dos asteriscos
 		for (int j = 1; j <= linhas - i; j++) {
 			printf(" ");
@@ -47,6 +48,36 @@ void exercicio2(int linhas) {
 	}
 }
 
+void exercicio3(int linhas){
+	int espacos, asteriscos;
+
+	// Desenho do losango - parte superior
+	for (int i = 1; i <= linhas; i++) {
+		// Espaços em branco antes dos asteriscos
+		for (espacos = 1; espacos <= linhas - i; espacos++) {
+			printf(" ");
+		}
+		// Asteriscos
+		for (asteriscos = 1; asteriscos <= 2 * i - 1; asteriscos++) {
+			printf("*");
+		}
+		printf("\n");
+	}
+
+	// Desenho do losango - parte inferior
+	for (int i = linhas - 1; i >= 1; i--) {
+		// Espaços em branco antes dos asteriscos
+		for (espacos = 1; espacos <= linhas - i; espacos++) {
+			printf(" ");
+		}
+		// Asteriscos
+		for (asteriscos = 1; asteriscos <= 2 * i - 1; asteriscos++) {
+			printf("*");
+		}
+		printf("\n");
+	}
+}
+
 int main(void) {
     int linhas;
 
@@ -55,11 +86,14 @@ int main(void) {
     scanf("%d", &linhas);
 
     // Exibe o padrão de asteriscos em forma de triângulo
-	exercicio1(linhas);
+    exercicio1(linhas);
 
-	// Exibe o padrão de asteriscos em forma de triângulo
-	// onde todos os asteriscos das extremidades serão substituídos pelo caractere #
-	exercicio2(linhas);
+    // Exibe o padrão de asteriscos em forma de triângulo
+    // onde todos os asteriscos das extremidades serão substituídos pelo caractere #
+    exercicio2(linhas);
 
-	return 0;
+    // Exibe o padrão de asteriscos em forma de losango
+    exercicio3(linhas);
+
+    return 0;
 }
