@@ -1,2 +1,0 @@
-A palavra arara é um palíndromo.
-A palavra osso é um palíndromo.
