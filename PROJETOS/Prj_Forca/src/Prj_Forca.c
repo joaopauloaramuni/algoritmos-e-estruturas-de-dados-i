@@ -19,7 +19,7 @@ char palavras[MAX_PALAVRAS][TAM_PALAVRA] = {
     "eletronico"
 };
 
-int main() {
+int main(void) {
     srand(time(NULL));
 
     char palavra[TAM_PALAVRA];
