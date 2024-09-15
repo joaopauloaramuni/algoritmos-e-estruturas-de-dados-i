@@ -9,3 +9,4 @@ https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521
 <br>https://learn.microsoft.com/pt-br/cpp/c-language/
 <br>https://devdocs.io/c/
 <br>https://www.youtube.com/@progdescomplicada/videos
+<br>https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas-main.html
