@@ -1,7 +1,8 @@
 # algoritmos-e-estruturas-de-dados-i
 Repo Algoritmos e Estruturas de Dados I
 
-https://www.eclipse.org/downloads/packages/
+https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521638302
+<br>https://www.eclipse.org/downloads/packages/
 <br>https://www.codeblocks.org/
 <br>https://replit.com/
 <br>https://mingw-w64.org/downloads/
