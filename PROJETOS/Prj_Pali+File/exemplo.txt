@@ -1,0 +1,3 @@
+A palavra ARARA é um palíndromo.
+A palavra OVO é um palíndromo.
+A palavra OTTO é um palíndromo.
