@@ -1,6 +1,10 @@
 # algoritmos-e-estruturas-de-dados-i
 Repo Algoritmos e Estruturas de Dados I
 
+Disciplina do curso de Engenharia de Software da PUC Minas 
+
+- 1°Sem 2024
+
 https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521638302
 <br>https://www.eclipse.org/downloads/packages/
 <br>https://www.codeblocks.org/
