@@ -1,6 +1,6 @@
 # algoritmos-e-estruturas-de-dados-i
 
-<img align="center" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc-logo-azul.png?raw=true"/>
+<img align="center" width="625px" height="625px" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc-logo-azul.png?raw=true"/>
 
 Repo Algoritmos e Estruturas de Dados I
 
