@@ -1,4 +1,7 @@
 # algoritmos-e-estruturas-de-dados-i
+
+<img align="center" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc-logo-azul-2.jpg?raw=true"/>
+
 Repo Algoritmos e Estruturas de Dados I
 
 Disciplina do curso de Engenharia de Software da PUC Minas 
