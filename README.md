@@ -7,6 +7,23 @@
         </tr> 
         <tr>
             <td>
+                <img width="250px" height="250px" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="1"></td>
+        </tr> 
+    </table>
+</div>
+
+
+<div align="center">
+    <table>
+        <tr>
+         <td align="center" colspan="1"></td>
+        </tr> 
+        <tr>
+            <td>
                 <img width="250px" height="250px" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc-logo-azul.png?raw=true"/>
             </td>
         </tr>
