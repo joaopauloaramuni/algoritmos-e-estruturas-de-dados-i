@@ -7,7 +7,7 @@
         </tr> 
         <tr>
             <td>
-                <img width="250px" height="250px" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
             </td>
         </tr>
         <tr>
