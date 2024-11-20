@@ -16,7 +16,9 @@
     </table>
 </div>
 
-Repo Algoritmos e Estruturas de Dados I
+-----
+
+# Repo Algoritmos e Estruturas de Dados I
 
 Disciplina do curso de Engenharia de Software da PUC Minas 
 
