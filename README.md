@@ -1,7 +1,19 @@
 # algoritmos-e-estruturas-de-dados-i
 
 <div align="center">
-    <img width="250px" height="250px" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc-logo-azul.png?raw=true"/>
+    <table>
+        <tr>
+         <td align="center" colspan="1"></td>
+        </tr> 
+        <tr>
+            <td>
+                <img width="250px" height="250px" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc-logo-azul.png?raw=true"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="1"></td>
+        </tr> 
+    </table>
 </div>
 
 Repo Algoritmos e Estruturas de Dados I
