@@ -1,20 +1,6 @@
-# algoritmos-e-estruturas-de-dados-i
+-----
 
-<div align="center">
-    <table>
-        <tr>
-         <td align="center"></td>
-        </tr> 
-        <tr>
-            <td>
-                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center"></td>
-        </tr> 
-    </table>
-</div>
+<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
 
 -----
 
@@ -34,3 +20,11 @@ https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521
 <br>https://www.youtube.com/@progdescomplicada/videos
 <br>https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas-main.html
 <br>https://pythontutor.com/c.html
+
+-----
+
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+</div>
+
+-----
