@@ -10,6 +10,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2024
 
+-----
+
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PDF)
 - [Tarefas](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/TAREFAS)
