@@ -18,16 +18,16 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Maratona de Programação](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/MARATONA)
 
 #### Links úteis:
-https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521638302
-<br>https://www.eclipse.org/downloads/packages/
-<br>https://www.codeblocks.org/
-<br>https://replit.com/
-<br>https://mingw-w64.org/downloads/
-<br>https://learn.microsoft.com/pt-br/cpp/c-language/
-<br>https://devdocs.io/c/
-<br>https://www.youtube.com/@progdescomplicada/videos
-<br>https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas-main.html
-<br>https://pythontutor.com/c.html
+- [Algoritmos e Estruturas de Dados em C - Ricardo Backes](https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521638302)
+- [Eclipse IDE Downloads](https://www.eclipse.org/downloads/packages/)
+- [Code::Blocks IDE](https://www.codeblocks.org/)
+- [Replit - Online IDE](https://replit.com/)
+- [Python Tutor - C](https://pythontutor.com/c.html)
+- [MinGW-w64 Downloads](https://mingw-w64.org/downloads/)
+- [Documentação C - Microsoft Learn](https://learn.microsoft.com/pt-br/cpp/c-language/)
+- [DevDocs - Documentação C](https://devdocs.io/c/)
+- [Canal YouTube - Programação Descomplicada](https://www.youtube.com/@progdescomplicada/videos)
+- [Material complementar - UFMG](https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas-main.html)
 
 -----
 
