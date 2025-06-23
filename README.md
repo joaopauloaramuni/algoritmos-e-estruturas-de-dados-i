@@ -29,16 +29,26 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📗 [GeeksforGeeks – C Programming Language](https://www.geeksforgeeks.org/c/c-programming-language/)
 
 ##### 💻 IDEs e ambientes de desenvolvimento
+
+###### 🏠 IDEs de desenvolvimento local
 - 🌑 [Eclipse IDE Downloads](https://www.eclipse.org/downloads/packages/)
+- 🖥️ [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
 - 🧱 [Code::Blocks IDE](https://www.codeblocks.org/)
+
+###### 🌐 IDEs online
+- 🌐 [OnlineGDB - IDE online com suporte a C/C++](https://www.onlinegdb.com/)  
 - 🌐 [Replit - Online IDE](https://replit.com/)
+
+###### 🧪 Ferramentas para análise e inspeção de código
+- 🧪 [Godbolt Compiler Explorer - Veja o assembly gerado pelo seu código C/C++](https://godbolt.org/)
 
 ##### 🧠 Visualização e simulação
 - 🔍 [Python Tutor - C (visualizador de código C passo a passo)](https://pythontutor.com/c.html)
 - 🔍 [VisuAlgo – Animações interativas de algoritmos e estruturas de dados](https://visualgo.net/en)
 
-##### 🔧 Compiladores e Ferramentas
+##### 🔧 Compiladores e ferramentas
 - ⚙️ [MinGW-w64 Downloads](https://mingw-w64.org/downloads/)
+- 🛠️ [GCC - GNU Compiler Collection (C/C++)](https://gcc.gnu.org/)
 
 ##### 📄 Documentação da Linguagem C
 - 📚 [Documentação C - Microsoft Learn](https://learn.microsoft.com/pt-br/cpp/c-language/)
