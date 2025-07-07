@@ -17,6 +17,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Tarefas](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/TAREFAS)
 - [Trabalho](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/TRABALHO)
 - [Projetos em C](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PROJETOS)
+- [Plano de Ensino](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PLANO%20DE%20ENSINO)
 - [Maratona de Programação](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/MARATONA)
 
 #### Links úteis:
