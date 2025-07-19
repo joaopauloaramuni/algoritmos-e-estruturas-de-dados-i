@@ -24,7 +24,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 📖 Livros recomendados
 - 📘 [2024 - Algoritmos: Teoria e Prática - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904/ref=pd_lpo_d_sccl_1/131-9194394-7098565)
-- 📘 [2022 - Algoritmos e Estruturas de Dados em C - Ricardo Backes](https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521638302)
+- 📘 [2022 - Algoritmos e Estruturas de Dados em C - André Ricardo Backes](https://www.amazon.com.br/Algoritmos-Estruturas-Linguagem-Ricardo-Backes/dp/8521638302)
 
 ##### 📖 Leituras recomendadas
 - 📗 [GeeksforGeeks – C Programming Language](https://www.geeksforgeeks.org/c/c-programming-language/)
@@ -61,7 +61,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🚀 [LeetCode – Problemas técnicos usados em entrevistas](https://leetcode.com/)
 
 ##### 🎥 Vídeos e aulas complementares
-- ▶️ [Canal YouTube - Programação Descomplicada](https://www.youtube.com/@progdescomplicada/videos)
+- ▶️ [Canal YouTube - Programação Descomplicada - André Ricardo Backes](https://www.youtube.com/@progdescomplicada/videos)
 - 🏫 [Material complementar - UFMG (aulas)](https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas-main.html)
 
 -----
