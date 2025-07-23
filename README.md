@@ -63,10 +63,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - ▶️ [Canal YouTube - Programação Descomplicada - André Ricardo Backes](https://www.youtube.com/@progdescomplicada/videos)
 - 🏫 [Material complementar - UFMG (aulas)](https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas-main.html)
 
-##### 🏗️ Roadmap Data Structures & Algorithms
+##### 🏗️ Roadmaps Computer Science e Data Structures & Algorithms
 
 Um **roadmap** é um guia visual que apresenta etapas, habilidades ou conhecimentos necessários para atingir um objetivo específico. Ele ajuda a organizar o aprendizado ou desenvolvimento ao longo do tempo, mostrando caminhos recomendados e prioridades.
 
+- 🗺️ [Roadmap Computer Science - Roadmap.sh](https://roadmap.sh/computer-science)
 - 🗺️ [Roadmap Data Structures & Algorithms - Roadmap.sh](https://roadmap.sh/datastructures-and-algorithms)
 
 -----
