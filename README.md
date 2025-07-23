@@ -55,14 +55,19 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📚 [Documentação C - Microsoft Learn](https://learn.microsoft.com/pt-br/cpp/c-language/)
 - 📚 [DevDocs - Documentação C](https://devdocs.io/c/)
 
-#### 🌐 Plataformas para praticar algoritmos
-
+##### 🌐 Plataformas para praticar algoritmos
 - 🎯 [HackerRank – Desafios por tema (ordenação, busca, recursão, etc.)](https://www.hackerrank.com/domains/tutorials/10-days-of-algorithms)  
 - 🚀 [LeetCode – Problemas técnicos usados em entrevistas](https://leetcode.com/)
 
 ##### 🎥 Vídeos e aulas complementares
 - ▶️ [Canal YouTube - Programação Descomplicada - André Ricardo Backes](https://www.youtube.com/@progdescomplicada/videos)
 - 🏫 [Material complementar - UFMG (aulas)](https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas-main.html)
+
+##### 🏗️ Roadmap Data Structures & Algorithms
+
+Um **roadmap** é um guia visual que apresenta etapas, habilidades ou conhecimentos necessários para atingir um objetivo específico. Ele ajuda a organizar o aprendizado ou desenvolvimento ao longo do tempo, mostrando caminhos recomendados e prioridades.
+
+- 🗺️ [Roadmap Data Structures & Algorithms - Roadmap.sh](https://roadmap.sh/datastructures-and-algorithms)
 
 -----
 
