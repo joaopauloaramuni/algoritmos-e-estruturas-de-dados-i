@@ -81,17 +81,17 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
 
 ###### 📜 Artigos históricos e fundacionais
 
-1. **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
+**1.** **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
    - Origem da máquina de Turing e da noção de computabilidade.
    - Trabalho seminal que fundamenta toda a teoria da computação.
    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Turing_Paper_1936.pdf)
 
-2. **Alan Turing – "Computing Machinery and Intelligence" (1950)**
+**2.** **Alan Turing – "Computing Machinery and Intelligence" (1950)**
    - Propõe o "Teste de Turing" e discute a possibilidade de máquinas pensarem.
    - Marco inicial na inteligência artificial.
    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Turing_Paper_1950.pdf)
 
-3. **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
+**3.** **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
    - Introduz o conceito de NP-completude, base da teoria da complexidade.
    - Fundamenta a distinção entre problemas tratáveis e intratáveis.
    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Cook_Paper_1971.pdf)
@@ -100,7 +100,7 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
 
 ###### 📘 Algoritmos de ordenação
 
-4. **C. A. R. Hoare – "Quicksort" (1961)**
+**4.** **C. A. R. Hoare – "Quicksort" (1961)**
    - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
    - É um dos algoritmos de ordenação mais eficientes na prática, sendo amplamente utilizado até hoje.
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
