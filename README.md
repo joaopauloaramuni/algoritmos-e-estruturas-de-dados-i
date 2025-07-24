@@ -84,17 +84,17 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
 1. **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
    - Origem da máquina de Turing e da noção de computabilidade.
    - Trabalho seminal que fundamenta toda a teoria da computação.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)
+   - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Turing_Paper_1936.pdf)
 
 2. **Alan Turing – "Computing Machinery and Intelligence" (1950)**
    - Propõe o "Teste de Turing" e discute a possibilidade de máquinas pensarem.
    - Marco inicial na inteligência artificial.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1950.pdf)
+   - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Turing_Paper_1950.pdf)
 
 3. **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
    - Introduz o conceito de NP-completude, base da teoria da complexidade.
    - Fundamenta a distinção entre problemas tratáveis e intratáveis.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Cook_Paper_1971.pdf)
+   - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Cook_Paper_1971.pdf)
 
 -----
 
@@ -104,7 +104,7 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
    - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
    - É um dos algoritmos de ordenação mais eficientes na prática, sendo amplamente utilizado até hoje.
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)
+   - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)
 
 -----
 
