@@ -96,11 +96,25 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
    - Fundamenta a distinção entre problemas tratáveis e intratáveis.
    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Cook_Paper_1971.pdf)
 
+**4.** **John von Neumann – "First Draft of a Report on the EDVAC" (1945)**  
+   - Documento seminal que apresenta os conceitos iniciais da arquitetura de computadores eletrônicos armazenados, base para a computação moderna.  
+   - Fundamental para o desenvolvimento dos computadores digitais e dos princípios de funcionamento dos sistemas de processamento.
+
+   **4.1** **Versão original (49 páginas)**  
+    - Versão concisa e direta, contendo o relatório inicial escrito em 1945.  
+    - Apresenta os conceitos fundamentais e o princípio de von Neumann.  
+    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Neumann_Paper_1945_1.pdf)
+
+   **4.2** **Versão estendida (107 páginas)**  
+    - Edição ampliada com explicações detalhadas, comentários e material adicional para facilitar o entendimento.  
+    - Inclui apêndices, notas e figuras que contextualizam o relatório original.  
+    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Neumann_Paper_1945_2.pdf)
+
 -----
 
 ###### 📘 Algoritmos de ordenação
 
-**4.** **C. A. R. Hoare – "Quicksort" (1961)**
+**5.** **C. A. R. Hoare – "Quicksort" (1961)**
    - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
    - É um dos algoritmos de ordenação mais eficientes na prática, sendo amplamente utilizado até hoje.
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
