@@ -120,6 +120,11 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)
 
+**6.** **Robert Sedgewick – "Implementing Quicksort Programs" (1978)**  
+   - Explora otimizações práticas para o Quicksort, incluindo escolhas de pivô e técnicas de partição.  
+   - Fundamenta implementações eficientes em linguagens modernas.  
+   - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)
+
 -----
 
 <div align="center">
