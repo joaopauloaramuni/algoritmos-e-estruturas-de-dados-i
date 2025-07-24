@@ -125,6 +125,12 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
    - Fundamenta implementações eficientes em linguagens modernas.  
    - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)
 
+**7.** **William A. Martin – "Sorting" (ca. 1971, MIT)**  
+   - Artigo de revisão que apresenta **37 algoritmos de ordenação** e referencia **100 livros e artigos** publicados nas duas décadas anteriores.  
+   - Resume as ideias centrais da literatura sobre ordenação e destaca os algoritmos mais eficientes para diferentes contextos.  
+   - Apresenta comparações, análises matemáticas e sugestões práticas para escolha do algoritmo mais adequado.  
+   - [PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Martin_Paper_1971.pdf)
+
 -----
 
 <div align="center">
