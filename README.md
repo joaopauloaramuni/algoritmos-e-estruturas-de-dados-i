@@ -98,7 +98,7 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
 
 -----
 
-###### 📘 Clássicos de Algoritmos e Estruturas de Dados
+###### 📘 Algoritmos de ordenação
 
 4. **C. A. R. Hoare – "Quicksort" (1961)**
    - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
