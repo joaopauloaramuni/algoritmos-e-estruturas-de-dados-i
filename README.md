@@ -81,15 +81,15 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
 
 ###### 📜 Artigos históricos e fundacionais
 
-**1.** [Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)  
+**1.** Alan Turing – ["On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)  
    - Origem da máquina de Turing e da noção de computabilidade.
    - Trabalho seminal que fundamenta toda a teoria da computação.
 
-**2.** [Alan Turing – "Computing Machinery and Intelligence" (1950)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1950.pdf)  
+**2.** Alan Turing – ["Computing Machinery and Intelligence" (1950)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1950.pdf)  
    - Propõe o "Teste de Turing" e discute a possibilidade de máquinas pensarem.
    - Marco inicial na inteligência artificial.
 
-**3.** [Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Cook_Paper_1971.pdf)  
+**3.** Stephen Cook – ["The Complexity of Theorem-Proving Procedures" (1971)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Cook_Paper_1971.pdf)  
    - Introduz o conceito de NP-completude, base da teoria da complexidade.
    - Fundamenta a distinção entre problemas eficientes e intratáveis.
 
@@ -109,16 +109,16 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
 
 ###### 📘 Algoritmos de ordenação
 
-**5.** [C. A. R. Hoare – "Quicksort" (1961)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)  
+**5.** C. A. R. Hoare – ["Quicksort" (1961)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)  
    - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
    - É um dos algoritmos de ordenação mais eficientes na prática, sendo amplamente utilizado até hoje.
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
 
-**6.** [Robert Sedgewick – "Implementing Quicksort Programs" (1978)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)  
+**6.** Robert Sedgewick – ["Implementing Quicksort Programs" (1978)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)  
    - Explora otimizações práticas para o Quicksort, incluindo escolhas de pivô e técnicas de partição.  
    - Fundamenta implementações eficientes em linguagens modernas.  
 
-**7.** [William A. Martin – "Sorting" (1971, MIT)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Martin_Paper_1971.pdf)  
+**7.** William A. Martin – ["Sorting" (1971, MIT)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Martin_Paper_1971.pdf)  
    - Artigo de revisão que apresenta **37 algoritmos de ordenação** e referencia **100 livros e artigos** publicados nas duas décadas anteriores.  
    - Resume as ideias centrais da literatura sobre ordenação e destaca os algoritmos mais eficientes para diferentes contextos.  
    - Apresenta comparações, análises matemáticas e sugestões práticas para escolha do algoritmo mais adequado.  
