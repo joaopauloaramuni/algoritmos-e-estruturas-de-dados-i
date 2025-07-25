@@ -81,7 +81,7 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
 
 ###### 📜 Artigos históricos e fundacionais
 
-**1.** Alan Turing – ["On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)  
+**1.** [Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)  
    - Origem da máquina de Turing e da noção de computabilidade.
    - Trabalho seminal que fundamenta toda a teoria da computação.
 
