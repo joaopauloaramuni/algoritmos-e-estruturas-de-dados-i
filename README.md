@@ -93,7 +93,7 @@ Esta lista reúne artigos clássicos e essenciais para a disciplina de **Algorit
    - Introduz o conceito de NP-completude, base da teoria da complexidade.
    - Fundamenta a distinção entre problemas eficientes e intratáveis.
 
-**4.** **John von Neumann – "First Draft of a Report on the EDVAC" (1945)**  
+**4.** John von Neumann – "First Draft of a Report on the EDVAC" (1945)  
    - Documento seminal que apresenta os conceitos iniciais da arquitetura de computadores eletrônicos armazenados, base para a computação moderna.  
    - Fundamental para o desenvolvimento dos computadores digitais e dos princípios de funcionamento dos sistemas de processamento.
    
