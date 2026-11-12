@@ -14,6 +14,27 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+### 🌐 Site C
+
+Os códigos em C que escrevi como **professor** desta disciplina (2024) e como **aluno** de Ciência da Computação na Universidade FUMEC (2010–2011) estão reunidos no Site C, com as aulas em PDF, os artigos sugeridos e os projetos com README.
+
+#### Versão 2: React + Vite
+
+🔗 https://sitec-v2.vercel.app/
+
+<img src="https://joaopauloaramuni.github.io/c-imgs/site_c_v2.png"/>
+
+#### Versão 1 (2011): HTML, CSS e JavaScript
+
+🔗 https://sitec-v1.vercel.app/
+
+<img src="https://joaopauloaramuni.github.io/c-imgs/site_c_v1.png"/>
+
+Os códigos de 2010–2011, de quando eu era aluno, estão no repositório:  
+- https://github.com/joaopauloaramuni/c
+
+-----
+
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PDF)
 - [Artigos sugeridos](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/ARTIGOS)
@@ -22,6 +43,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Projetos em C](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PROJETOS)
 - [Plano de Ensino](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PLANO%20DE%20ENSINO)
 - [Maratona de Programação](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/MARATONA)
+- [Site C (v2)](https://sitec-v2.vercel.app/)
+- [Site C (v1, 2011)](https://sitec-v1.vercel.app/)
 
 #### Links úteis:
 
